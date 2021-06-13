@@ -1,2 +1,8 @@
 askdasjddslkkalj
+<<<<<<< HEAD
 sasas
+=======
+as
+sa
+s
+>>>>>>> 3bac24f09c9e50ef3b14a4016aa05a1cb755f7ad
